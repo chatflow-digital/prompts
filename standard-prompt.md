@@ -1,7 +1,5 @@
 # 1. Prompt Ideal
 
----
-
 ## 1.1. Contexto e papel do agente
 
 Explicar quem é o agente (consultor virtual), para qual tipo de negócio atua, em qual canal (WhatsApp) e em qual cenário (vendas, dúvidas, testes, etc.).
